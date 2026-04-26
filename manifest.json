@@ -2,7 +2,7 @@
   "name": "El Recetario de Laura",
   "short_name": "Recetario",
   "description": "Recetario personal con modo chef guiado",
-  "start_url": "./Recetario.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#c9b99a",
