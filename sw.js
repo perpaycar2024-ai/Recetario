@@ -1,6 +1,6 @@
 const CACHE_NAME = 'recetario-laura-v1';
 const ASSETS = [
-  './Recetario.html',
+  './index.html',
   './recetario.png',
   './manifest.json',
   './icon-192.png',
