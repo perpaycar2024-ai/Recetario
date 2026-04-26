@@ -1,4 +1,4 @@
-const CACHE_NAME = 'recetario-laura-v1';
+const CACHE_NAME = 'recetario-laura-v2';
 const ASSETS = [
   './index.html',
   './recetario.png',
